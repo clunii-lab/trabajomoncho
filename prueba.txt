@@ -11,3 +11,72 @@
         <h1>🎃 Fiesta de Samain 🎃</h1>
         <p>El origen celta de Halloween llega a nuestro colegio</p>
     </header>
+
+    <main>
+        <section id="origen">
+            <h2>🍂 ¿Qué es el Samain?</h2>
+            <p>
+                El Samain es una antigua celebración de origen celta que
+                marcaba el final del verano y el comienzo del invierno.
+                Los celtas creían que durante esta noche el mundo de los
+                vivos y el de los espíritus estaban más cerca.
+            </p>
+            <p>
+                Esta tradición es una de las raíces de la actual fiesta
+                de Halloween y se sigue celebrando especialmente en Galicia.
+            </p>
+        </section>
+
+        <section id="actividades">
+            <h2>🧙‍♀️ Actividades de la fiesta</h2>
+            <p>En nuestro colegio vamos a disfrutar de un montón de actividades:</p>
+            <ul>
+                <li>🎃 Concurso de calabazas decoradas.</li>
+                <li>👻 Desfile de disfraces terroríficos.</li>
+                <li>🕸️ Taller de manualidades y decoración.</li>
+                <li>📖 Cuentacuentos de historias de miedo.</li>
+                <li>🎶 Música y bailes tradicionales.</li>
+            </ul>
+        </section>
+
+        <section id="decoracion">
+            <h2>🕯️ Decoramos nuestro colegio</h2>
+            <p>
+                Nuestro colegio se llenará de calabazas, hojas secas,
+                telarañas, velas y otros elementos relacionados con
+                esta misteriosa celebración.
+            </p>
+            <p>
+                ¡Todos podemos colaborar para crear un ambiente mágico
+                y terrorífico!
+            </p>
+        </section>
+
+        <section id="comida">
+            <h2>🍎 Comidas tradicionales</h2>
+            <p>
+                Durante el Samain también podemos disfrutar de alimentos
+                típicos del otoño, como castañas, nueces, manzanas y
+                otros frutos de temporada.
+            </p>
+            <p>¡Una forma deliciosa de celebrar la llegada del otoño!</p>
+        </section>
+
+        <section id="informacion">
+            <h2>📅 ¡No te lo pierdas!</h2>
+            <p>
+                Prepárate para vivir una jornada llena de diversión,
+                creatividad, tradición y misterio.
+            </p>
+            <p><strong>¡Ven disfrazado y disfruta de la Fiesta de Samain!</strong></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>🎃 Fiesta de Samain - Nuestro colegio 🎃</p>
+        <p>Celebrando nuestras tradiciones y disfrutando juntos.</p>
+    </footer>
+</body>
+</html>
+
+
